@@ -1,0 +1,9 @@
+---
+mosse_tracker:
+  tracker_path: 'examples/mosse_tracker.py'
+  class_name: MosseTracker 
+
+mosse_tracker_improved:
+  tracker_path: 'examples/mosse_tracker_improved.py'
+  class_name: MosseTrackerImproved
+...
