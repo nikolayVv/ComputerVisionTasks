@@ -1,0 +1,5 @@
+---
+particle_tracker:
+  tracker_path: 'examples/particle_tracker.py'
+  class_name: ParticleTracker 
+...
