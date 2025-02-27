@@ -1,6 +1,6 @@
 # Computer Vision Tasks
 
-Five computer vision tasks using the programming language Python.
+A collection of five computer vision tasks implemented in Python. Each task (folder) includes a report in PDF format presenting the results and insights gained from experimentation.
 
 ## Optical flow (Task 1)
 Evaluating the implementation of two popular techniques for estimating optical flow from a sequence of images - the Lucas-Kanade and Horn-Schunck methods. Comparing their results by testing them on random noise and on pairs of images. Discovering the best parameters and techniques that help us improve the estimated optical flows and performances. Implementation and evaluation of the pyramidal Lucas-Kanade.
